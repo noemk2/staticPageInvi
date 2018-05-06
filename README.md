@@ -1,2 +1,2 @@
 # portafoliov2
-Repo creado para un portafolio 
+Link del mi portafolio: https://noemk2.github.io/portafoliov2/
